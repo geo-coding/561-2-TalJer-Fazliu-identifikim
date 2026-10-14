@@ -65,9 +65,6 @@ Merita Bërkolli (Izet)
 1005581113 
 Rr "A Ivaja" Nr 11, Ferizaj
 
-```
-
-
 00561-8
 237 
 236.6 
@@ -77,10 +74,13 @@ Besnik (Ilaz) Brkolli
 1018184261
 Rr.Ali Ivaja Nr.13, Ferizaj
 
-
 Hamide (Bafti) Brkolli 
 1171039220
 Rr.Ali Ivaja Nr.13, Ferizaj
+
+
+```
+
 
 
 # 562-
